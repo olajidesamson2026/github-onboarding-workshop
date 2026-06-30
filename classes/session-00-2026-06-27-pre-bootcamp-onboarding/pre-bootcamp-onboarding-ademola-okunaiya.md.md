@@ -54,7 +54,7 @@ I learned how to collaborate on Github
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
--
+- The class recording on Youtube
 
 ---
 
